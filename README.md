@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haadisaqib
 - 👀 I’m interested in ... Web/App development
-- 🌱 I’m currently learning ... webdev, python, automation
-- 💞️ I’m looking to collaborate on ... open source
+- 🌱 I’m currently learning ... Web Development, Cloud services, and SWE
+- 💞️ I’m currently working on a full stack multimedia platform
 - 📫 How to reach me ... haadi.saqib@gmail.com
 
 <!---
